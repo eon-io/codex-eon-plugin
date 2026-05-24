@@ -29,3 +29,7 @@ The plugin connects to `https://mcp.eon.io/mcp` via HTTP. Authentication is hand
 
 - [Eon Platform](https://eon.io)
 - [Documentation](https://docs.eon.io)
+
+## License
+
+Licensed under the [Apache License, Version 2.0](LICENSE). See [NOTICE](NOTICE) for attribution and a note on access to the Eon service.
