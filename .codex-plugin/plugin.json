@@ -1,6 +1,6 @@
 {
   "name": "eon",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Eon MCP server — exposes the Eon AI agent tools and skills for multi-cloud backup, recovery, inventory, and onboarding.",
   "author": {
     "name": "Eon",
