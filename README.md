@@ -9,6 +9,7 @@ Connect Codex to Eon via this plugin. Bundles the Eon MCP server and guided clou
 - **GCP onboarding skill** — step-by-step guided workflow to connect GCP organizations, folders, and individual projects to Eon.
 - **Backup policy creation skill** — guided wizard for creating backup policies (resource selectors, schedules, retention).
 - **Cost explorer query skill** — answer customer questions about cloud-resource consumption (GB/month, USD, credits) across accounts, resource types, and time ranges.
+- **Ransomware remediation skill** — investigate ransomware, malware, and data-anomaly findings on Eon-protected resources and restore affected resources to their last verified-clean recovery point.
 
 ## Installation
 
@@ -22,6 +23,7 @@ Install via the Codex plugin marketplace using `.agents/plugins/marketplace.json
 | GCP Onboarding | Guide users through connecting GCP cloud accounts (orgs, folders, or individual projects) to the Eon platform. |
 | Backup Policy Creation | Guide users through creating a backup policy: type, resource selector, schedules, vaults, and retention. |
 | Cost Explorer Query | Answer customer questions about cloud-resource consumption and spend — usage in GB/month or cost in USD/credits, broken down by cloud, resource type, account, or department tag. |
+| Ransomware Remediation | Investigate ransomware, malware, and data-anomaly detections, build a per-resource incident report, and run a confirmed bulk restore from the latest clean snapshots. |
 
 ## MCP Server
 
